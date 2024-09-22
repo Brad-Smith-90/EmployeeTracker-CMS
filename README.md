@@ -172,8 +172,10 @@ All contributions are welcome and appreciated.
 
 ## Questions
 
-   If you have any questions or suggestions, feel free to reach out to me at [B.Smith66090@gmail.com](Gmail.com).
-   You can also find more of my work on GitHub: [Brad-Smith-90](Github.com) 
+   If you have any questions or suggestions, feel free to reach out to me at [B.Smith6090@gmail.com](mailto:B.Smith6090@gmail.com)
+.
+   You can also find more of my work on GitHub: [Brad-Smith-90](https://github.com/Brad-Smith-90)
+
 
     
     
