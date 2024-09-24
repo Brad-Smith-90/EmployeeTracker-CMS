@@ -13,7 +13,7 @@ The application allows users to:
 This project adheres to a modular and scalable structure, utilizing a PostgreSQL database to store information and Inquirer.js for the user interface.
 
 ## Table of Contents
-
+- [Demo](#Demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
@@ -21,6 +21,13 @@ This project adheres to a modular and scalable structure, utilizing a PostgreSQL
 - [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
+
+
+## Demo
+
+[![Watch the demo on YouTube](https://img.youtube.com/vi/9nLBT9foTM/0.jpg)](https://www.youtube.com/watch?v=_9nLBT9foTM)
+
+
 
 ## Installation
 
