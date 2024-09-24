@@ -167,7 +167,7 @@ This project adheres to a modular and scalable structure, utilizing a PostgreSQL
         git commit -m "Add feature XYZ"
         ```
 
-   4. **Push to the branch:
+   4. **Push to the branch:**
 
        ```
        git push origin feature/new-feature
